@@ -1,6 +1,6 @@
 module github.com/bootdotdev/bootdev
 
-go 1.24.2
+go 1.26.0
 
 require (
 	github.com/charmbracelet/bubbles v0.21.0
@@ -14,7 +14,7 @@ require (
 	github.com/spf13/viper v1.21.0
 	github.com/tailscale/hujson v0.0.0-20241010212012-29efb4a0184b
 	go.yaml.in/yaml/v3 v3.0.4
-	golang.org/x/mod v0.32.0
+	golang.org/x/mod v0.43.0
 	golang.org/x/term v0.39.0
 )
 
