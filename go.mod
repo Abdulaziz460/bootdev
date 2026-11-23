@@ -5,7 +5,7 @@ go 1.24.2
 require (
 	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.10
-	github.com/charmbracelet/lipgloss v1.1.0
+	github.com/charmbracelet/lipgloss v1.1.1-0.20260209063657-1e3ee3483a90
 	github.com/charmbracelet/x/ansi v0.11.4
 	github.com/goccy/go-json v0.10.5
 	github.com/itchyny/gojq v0.12.18
